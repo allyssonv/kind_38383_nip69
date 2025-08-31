@@ -1,0 +1,18 @@
+{
+  "name": "kind_38383_nip69",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "nostr-tools": "^2.16.1",
+    "ws": "^8.18.3"
+  }
+}
