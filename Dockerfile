@@ -2,7 +2,6 @@
 FROM node:22.18.0-alpine
 
 # Adicionar metadados com labels
-LABEL maintainer="LibertGuy <LibertGuy@proton.me>"
 LABEL version="1.0"
 LABEL description="Dockerfile para rodar uma aplicação Node.js a cada 5 minutos com cron"
 
